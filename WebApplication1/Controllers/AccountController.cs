@@ -16,7 +16,7 @@ namespace WebApplication1.Controllers
     public class AccountController : Controller
     {
         //my awasome feature
-        //add new repo
+    
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
