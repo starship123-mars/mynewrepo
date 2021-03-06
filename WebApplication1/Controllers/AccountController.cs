@@ -15,6 +15,7 @@ namespace WebApplication1.Controllers
     [Authorize]
     public class AccountController : Controller
     {
+        //my awesome feature
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
